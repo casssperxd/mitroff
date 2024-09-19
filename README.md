@@ -38,3 +38,23 @@ graph TD;
     user-->trollingpeople;
     troll-->troll;
 ```
+
+
+вот диаграмма компонентов из чего наши повара делают пиццы
+```mermaid
+mindmap
+  root((trollpizza))
+    Origins
+      bacon
+      human meat
+       papaya
+        pineapples
+          
+    cobblestone
+      fish
+      tears of the victims trolling
+```
+
+
+
+
